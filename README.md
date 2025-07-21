@@ -1,8 +1,8 @@
 ```bash
 Student-Project-Repo/
-├── Code/
+├── Codemn/
 │   └── (students upload their code)
-├── Report/
+├── Reportmn/
 │   └── (students upload their report)
 ├── Evaluation/
 │   └── Evaluation.md  ← 🔒 restricted to mentor
